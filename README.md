@@ -7,3 +7,5 @@ The u‘s and e‘s are extra long, so we must double them in our program.
 ### Exercise 3: MealMaker - objects  
 Use JavaScript to randomly create a three-course meal based on what is available on a menu.  
 We’ll keep running it until we’re satisfied with the generated meal!  
+### Exercise 4: Mini Linter - iterators  
+Use what you know about iterating over arrays to improve the quality of a paragraph and gather some information about that paragraph.  
